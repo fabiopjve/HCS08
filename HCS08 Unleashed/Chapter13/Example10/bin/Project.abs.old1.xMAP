@@ -1,0 +1,538 @@
+
+
+
+# .abs_vector_0
+  00000000 00000004 .abs    vector_0	(exceptions.c)
+
+# .abs_vector_1
+  00000004 00000004 .abs    vector_1	(exceptions.c)
+
+# .abs_vector_2
+  00000008 00000004 .abs    vector_2	(exceptions.c)
+
+# .abs_vector_3
+  0000000C 00000004 .abs    vector_3	(exceptions.c)
+
+# .abs_vector_4
+  00000010 00000004 .abs    vector_4	(exceptions.c)
+
+# .abs_vector_5
+  00000014 00000004 .abs    vector_5	(exceptions.c)
+
+# .abs_vector_6
+  00000018 00000004 .abs    vector_6	(exceptions.c)
+
+# .abs_vector_7
+  0000001C 00000004 .abs    vector_7	(exceptions.c)
+
+# .abs_vector_8
+  00000020 00000004 .abs    vector_8	(exceptions.c)
+
+# .abs_vector_9
+  00000024 00000004 .abs    vector_9	(exceptions.c)
+
+# .abs_vector_10
+  00000028 00000004 .abs    vector_10	(exceptions.c)
+
+# .abs_vector_11
+  0000002C 00000004 .abs    vector_11	(exceptions.c)
+
+# .abs_vector_12
+  00000030 00000004 .abs    vector_12	(exceptions.c)
+
+# .abs_vector_13
+  00000034 00000004 .abs    vector_13	(exceptions.c)
+
+# .abs_vector_14
+  00000038 00000004 .abs    vector_14	(exceptions.c)
+
+# .abs_vector_15
+  0000003C 00000004 .abs    vector_15	(exceptions.c)
+
+# .abs_vector_16
+  00000040 00000004 .abs    vector_16	(exceptions.c)
+
+# .abs_vector_17
+  00000044 00000004 .abs    vector_17	(exceptions.c)
+
+# .abs_vector_18
+  00000048 00000004 .abs    vector_18	(exceptions.c)
+
+# .abs_vector_19
+  0000004C 00000004 .abs    vector_19	(exceptions.c)
+
+# .abs_vector_20
+  00000050 00000004 .abs    vector_20	(exceptions.c)
+
+# .abs_vector_21
+  00000054 00000004 .abs    vector_21	(exceptions.c)
+
+# .abs_vector_22
+  00000058 00000004 .abs    vector_22	(exceptions.c)
+
+# .abs_vector_23
+  0000005C 00000004 .abs    vector_23	(exceptions.c)
+
+# .abs_vector_24
+  00000060 00000004 .abs    vector_24	(exceptions.c)
+
+# .abs_vector_25
+  00000064 00000004 .abs    vector_25	(exceptions.c)
+
+# .abs_vector_26
+  00000068 00000004 .abs    vector_26	(exceptions.c)
+
+# .abs_vector_27
+  0000006C 00000004 .abs    vector_27	(exceptions.c)
+
+# .abs_vector_28
+  00000070 00000004 .abs    vector_28	(exceptions.c)
+
+# .abs_vector_29
+  00000074 00000004 .abs    vector_29	(exceptions.c)
+
+# .abs_vector_30
+  00000078 00000004 .abs    vector_30	(exceptions.c)
+
+# .abs_vector_31
+  0000007C 00000004 .abs    vector_31	(exceptions.c)
+
+# .abs_vector_32
+  00000080 00000004 .abs    vector_32	(exceptions.c)
+
+# .abs_vector_33
+  00000084 00000004 .abs    vector_33	(exceptions.c)
+
+# .abs_vector_34
+  00000088 00000004 .abs    vector_34	(exceptions.c)
+
+# .abs_vector_35
+  0000008C 00000004 .abs    vector_35	(exceptions.c)
+
+# .abs_vector_36
+  00000090 00000004 .abs    vector_36	(exceptions.c)
+
+# .abs_vector_37
+  00000094 00000004 .abs    vector_37	(exceptions.c)
+
+# .abs_vector_38
+  00000098 00000004 .abs    vector_38	(exceptions.c)
+
+# .abs_vector_39
+  0000009C 00000004 .abs    vector_39	(exceptions.c)
+
+# .abs_vector_40
+  000000A0 00000004 .abs    vector_40	(exceptions.c)
+
+# .abs_vector_41
+  000000A4 00000004 .abs    vector_41	(exceptions.c)
+
+# .abs_vector_42
+  000000A8 00000004 .abs    vector_42	(exceptions.c)
+
+# .abs_vector_43
+  000000AC 00000004 .abs    vector_43	(exceptions.c)
+
+# .abs_vector_44
+  000000B0 00000004 .abs    vector_44	(exceptions.c)
+
+# .abs_vector_45
+  000000B4 00000004 .abs    vector_45	(exceptions.c)
+
+# .abs_vector_46
+  000000B8 00000004 .abs    vector_46	(exceptions.c)
+
+# .abs_vector_47
+  000000BC 00000004 .abs    vector_47	(exceptions.c)
+
+# .abs_vector_48
+  000000C0 00000004 .abs    vector_48	(exceptions.c)
+
+# .abs_vector_49
+  000000C4 00000004 .abs    vector_49	(exceptions.c)
+
+# .abs_vector_50
+  000000C8 00000004 .abs    vector_50	(exceptions.c)
+
+# .abs_vector_51
+  000000CC 00000004 .abs    vector_51	(exceptions.c)
+
+# .abs_vector_52
+  000000D0 00000004 .abs    vector_52	(exceptions.c)
+
+# .abs_vector_53
+  000000D4 00000004 .abs    vector_53	(exceptions.c)
+
+# .abs_vector_54
+  000000D8 00000004 .abs    vector_54	(exceptions.c)
+
+# .abs_vector_55
+  000000DC 00000004 .abs    vector_55	(exceptions.c)
+
+# .abs_vector_56
+  000000E0 00000004 .abs    vector_56	(exceptions.c)
+
+# .abs_vector_57
+  000000E4 00000004 .abs    vector_57	(exceptions.c)
+
+# .abs_vector_58
+  000000E8 00000004 .abs    vector_58	(exceptions.c)
+
+# .abs_vector_59
+  000000EC 00000004 .abs    vector_59	(exceptions.c)
+
+# .abs_vector_60
+  000000F0 00000004 .abs    vector_60	(exceptions.c)
+
+# .abs_vector_61
+  000000F4 00000004 .abs    vector_61	(exceptions.c)
+
+# .abs_vector_62
+  000000F8 00000004 .abs    vector_62	(exceptions.c)
+
+# .abs_vector_63
+  000000FC 00000004 .abs    vector_63	(exceptions.c)
+
+# .abs_vector_64
+  00000100 00000004 .abs    vector_64	(exceptions.c)
+
+# .abs_vector_65
+  00000104 00000004 .abs    vector_65	(exceptions.c)
+
+# .abs_vector_66
+  00000108 00000004 .abs    vector_66	(main.c)
+
+# .abs_vector_67
+  0000010C 00000004 .abs    vector_67	(main.c)
+
+# .abs_vector_68
+  00000110 00000004 .abs    vector_68	(exceptions.c)
+
+# .abs_vector_69
+  00000114 00000004 .abs    vector_69	(exceptions.c)
+
+# .abs_vector_70
+  00000118 00000004 .abs    vector_70	(exceptions.c)
+
+# .abs_vector_71
+  0000011C 00000004 .abs    vector_71	(exceptions.c)
+
+# .abs_vector_72
+  00000120 00000004 .abs    vector_72	(exceptions.c)
+
+# .abs_vector_73
+  00000124 00000004 .abs    vector_73	(exceptions.c)
+
+# .abs_vector_74
+  00000128 00000004 .abs    vector_74	(exceptions.c)
+
+# .abs_vector_75
+  0000012C 00000004 .abs    vector_75	(exceptions.c)
+
+# .abs_vector_76
+  00000130 00000004 .abs    vector_76	(exceptions.c)
+
+# .abs_vector_77
+  00000134 00000004 .abs    vector_77	(exceptions.c)
+
+# .abs_vector_78
+  00000138 00000004 .abs    vector_78	(exceptions.c)
+
+# .abs_vector_79
+  0000013C 00000004 .abs    vector_79	(exceptions.c)
+
+# .abs_vector_80
+  00000140 00000004 .abs    vector_80	(exceptions.c)
+
+# .abs_vector_81
+  00000144 00000004 .abs    vector_81	(main.c)
+
+# .abs_vector_82
+  00000148 00000004 .abs    vector_82	(exceptions.c)
+
+# .abs_vector_83
+  0000014C 00000004 .abs    vector_83	(exceptions.c)
+
+# .abs_vector_84
+  00000150 00000004 .abs    vector_84	(exceptions.c)
+
+# .abs_vector_85
+  00000154 00000004 .abs    vector_85	(exceptions.c)
+
+# .abs_vector_86
+  00000158 00000004 .abs    vector_86	(exceptions.c)
+
+# .abs_vector_87
+  0000015C 00000004 .abs    vector_87	(exceptions.c)
+
+# .abs_vector_88
+  00000160 00000004 .abs    vector_88	(exceptions.c)
+
+# .abs_vector_89
+  00000164 00000004 .abs    vector_89	(exceptions.c)
+
+# .abs_vector_90
+  00000168 00000004 .abs    vector_90	(exceptions.c)
+
+# .abs_vector_91
+  0000016C 00000004 .abs    vector_91	(exceptions.c)
+
+# .abs_vector_92
+  00000170 00000004 .abs    vector_92	(exceptions.c)
+
+# .abs_vector_93
+  00000174 00000004 .abs    vector_93	(exceptions.c)
+
+# .abs_vector_94
+  00000178 00000004 .abs    vector_94	(exceptions.c)
+
+# .abs_vector_95
+  0000017C 00000004 .abs    vector_95	(exceptions.c)
+
+# .abs_vector_96
+  00000180 00000004 .abs    vector_96	(exceptions.c)
+
+# .abs_vector_97
+  00000184 00000004 .abs    vector_97	(exceptions.c)
+
+# .abs_vector_98
+  00000188 00000004 .abs    vector_98	(exceptions.c)
+
+# .abs_vector_99
+  0000018C 00000004 .abs    vector_99	(exceptions.c)
+
+# .abs_vector_100
+  00000190 00000004 .abs    vector_100	(exceptions.c)
+
+# .abs_vector_101
+  00000194 00000004 .abs    vector_101	(exceptions.c)
+
+# .abs_vector_102
+  00000198 00000004 .abs    vector_102	(exceptions.c)
+#>00000400          ___heap_size (linker command file)
+#>00000400          ___stack_size (linker command file)
+#>00800000          ___RAM_ADDRESS (linker command file)
+#>00002000          ___RAM_SIZE (linker command file)
+#>00000000          ___FLASH_ADDRESS (linker command file)
+#>00020000          ___FLASH_SIZE (linker command file)
+
+# .userram
+
+# .code
+
+# .text
+  00000410 00000058 .text   tpm1ch0_isr	(main.c)
+  00000468 00000020 .text   tpm1ch1_compare	(main.c)
+  00000488 00000040 .text   sound	(main.c)
+  000004C8 00000350 .text   play_song	(main.c)
+  00000818 00000044 .text   adc_isr	(main.c)
+  0000085C 000000DC .text   main	(main.c)
+  00000938 000001E8 .text   mcf_exception_handler	(exceptions.c)
+  00000B20 00000020 .text   asm_exception_handler	(exceptions.c)
+  00000B40 00000004 .text   __initialize_hardware	(startcf.c)
+  00000B44 00000004 .text   __initialize_system	(startcf.c)
+  00000B48 0000002C .text   __copy_rom_section	(startcf.c)
+  00000B74 0000003C .text   __copy_rom_sections_to_ram	(startcf.c)
+  00000BB0 00000004 .text   _ExitProcess	(startcf.c)
+  00000BB4 000000C8 .text   clear_mem	(startcf.c)
+  00000C7C 00000094 .text   _startup	(startcf.c)
+  00000D10 00000034 .text   exit	(C_4i_CF_RegABI_MSL.a abort_exit_cf.o)
+  00000D44 0000003C .text   __exit	(C_4i_CF_RegABI_MSL.a abort_exit_cf.o)
+  00000D80 0000001C .text   __call_static_initializers	(C_4i_CF_RegABI_Runtime.a cf_staticinitia)
+  00000D9C 00000038 .text   __destroy_global_chain	(C_4i_CF_RegABI_Runtime.a cf_staticinitia)
+  00000DD4 0000004C .text   __ldivu__	(C_4i_CF_RegABI_Runtime.a cf_runtime.o   )
+  00000E20 0000008F .rodata @1	(main.c)
+  00000EAF 000000D3 .rodata @2	(main.c)
+  00000F82 00000079 .rodata @3	(main.c)
+  00000FFB 00000084 .rodata @4	(main.c)
+  0000107F 00000065 .rodata @5	(main.c)
+  000010E4 000000BA .rodata @6	(main.c)
+  0000119E 00000079 .rodata @7	(main.c)
+  00001217 00000068 .rodata @8	(main.c)
+  0000127F 000000AE .rodata @9	(main.c)
+  0000132D 000000AD .rodata @10	(main.c)
+  000013DA 0000006D .rodata @11	(main.c)
+  00001447 000000C2 .rodata @12	(main.c)
+  00001509 0000006D .rodata @13	(main.c)
+  00001576 0000010E .rodata @14	(main.c)
+  00001684 00000085 .rodata @15	(main.c)
+  00001709 00000064 .rodata @16	(main.c)
+  0000176D 0000009E .rodata @17	(main.c)
+  0000180B 00000093 .rodata @18	(main.c)
+  0000189E 00000081 .rodata @19	(main.c)
+  0000191F 000000B6 .rodata @20	(main.c)
+  000019D6 000000C0 .rodata note	(main.c)
+#>00001A98          ___ROM_AT (linker command file)
+#>00001A98          ___DATA_ROM (linker command file)
+
+# .data
+#>00800000          ___DATA_RAM (linker command file)
+#>00800000          __exception_table_start__ (linker command file)
+# Exception index
+  00800000 00000000         Exception Table Index	()
+#>00800000          __exception_table_end__ (linker command file)
+#>00800000          ___sinit__ (linker command file)
+# Linker generated symbols
+  00800000 00000004         static initializer	(linker generated)
+#>00800004          __START_DATA (linker command file)
+#>00800004          __END_DATA (linker command file)
+#>00800004          __START_SDATA (linker command file)
+  00800004 00000050 .sdata  rtttl_library	(main.c)
+#>00800054          __END_SDATA (linker command file)
+#>00800054          ___DATA_END (linker command file)
+#>00800054          __SDA_BASE (linker command file)
+
+# .bss
+#>00800054          ___BSS_START (linker command file)
+#>00800054          __START_SBSS (linker command file)
+  00800054 00000001 .sbss   sound_playing	(main.c)
+  00800055 00000001 .sbss   next_song_flag	(main.c)
+  00800056 00000004 .sbss   last_y	(main.c)
+  0080005A 00000004 .sbss   y_avg	(main.c)
+  0080005E 00000004 .sbss   y_axis	(main.c)
+  00800062 00000004 .sbss   tempo	(main.c)
+  00800066 00000001 .sbss   octave	(main.c)
+  00800067 00000001 .sbss   duration	(main.c)
+  00800068 00000001 .sbss   accel_timer	(main.c)
+  0080006A 00000004 .sbss   duration_timer	(main.c)
+  0080006E 00000004 .sbss   channel_reload_value	(main.c)
+  00800072 00000004 .sbss   __aborting	(C_4i_CF_RegABI_MSL.a abort_exit_cf.o)
+  00800076 00000004 .sbss   __atexit_curr_func	(C_4i_CF_RegABI_MSL.a abort_exit_cf.o)
+  0080007A 00000004 .sbss   __stdio_exit	(C_4i_CF_RegABI_MSL.a abort_exit_cf.o)
+  0080007E 00000004 .sbss   __console_exit	(C_4i_CF_RegABI_MSL.a abort_exit_cf.o)
+  00800082 00000100 .sbss   __atexit_funcs	(C_4i_CF_RegABI_MSL.a abort_exit_cf.o)
+#>00800184          __END_SBSS (linker command file)
+#>00800184          __START_BSS (linker command file)
+  00800184 00000004 .bss    __global_destructor_chain	(C_4i_CF_RegABI_Runtime.a cf_staticinitia)
+#>00800188          __END_BSS (linker command file)
+#>00800188          ___BSS_END (linker command file)
+
+# .custom
+#>00800188          ___HEAP_START (linker command file)
+#>00800188          ___heap_addr (linker command file)
+#>00800588          ___HEAP_END (linker command file)
+#>00800588          ___SP_END (linker command file)
+#>00800988          ___SP_INIT (linker command file)
+#>00800988          __SP_INIT (linker command file)
+#>00800988          ___SP_AFTER_RESET (linker command file)
+#>00001AEC          _romp_at (linker command file)
+
+# .romp
+#>00001AEC          __S_romp (linker command file)
+
+
+# Memory map:
+  v_addr   p_addr   size     name
+  00000000 00000000 00000004 .abs_vector_0 abs_vector_0
+  00000004 00000004 00000004 .abs_vector_1 abs_vector_1
+  00000008 00000008 00000004 .abs_vector_2 abs_vector_2
+  0000000C 0000000C 00000004 .abs_vector_3 abs_vector_3
+  00000010 00000010 00000004 .abs_vector_4 abs_vector_4
+  00000014 00000014 00000004 .abs_vector_5 abs_vector_5
+  00000018 00000018 00000004 .abs_vector_6 abs_vector_6
+  0000001C 0000001C 00000004 .abs_vector_7 abs_vector_7
+  00000020 00000020 00000004 .abs_vector_8 abs_vector_8
+  00000024 00000024 00000004 .abs_vector_9 abs_vector_9
+  00000028 00000028 00000004 .abs_vector_10 abs_vector_10
+  0000002C 0000002C 00000004 .abs_vector_11 abs_vector_11
+  00000030 00000030 00000004 .abs_vector_12 abs_vector_12
+  00000034 00000034 00000004 .abs_vector_13 abs_vector_13
+  00000038 00000038 00000004 .abs_vector_14 abs_vector_14
+  0000003C 0000003C 00000004 .abs_vector_15 abs_vector_15
+  00000040 00000040 00000004 .abs_vector_16 abs_vector_16
+  00000044 00000044 00000004 .abs_vector_17 abs_vector_17
+  00000048 00000048 00000004 .abs_vector_18 abs_vector_18
+  0000004C 0000004C 00000004 .abs_vector_19 abs_vector_19
+  00000050 00000050 00000004 .abs_vector_20 abs_vector_20
+  00000054 00000054 00000004 .abs_vector_21 abs_vector_21
+  00000058 00000058 00000004 .abs_vector_22 abs_vector_22
+  0000005C 0000005C 00000004 .abs_vector_23 abs_vector_23
+  00000060 00000060 00000004 .abs_vector_24 abs_vector_24
+  00000064 00000064 00000004 .abs_vector_25 abs_vector_25
+  00000068 00000068 00000004 .abs_vector_26 abs_vector_26
+  0000006C 0000006C 00000004 .abs_vector_27 abs_vector_27
+  00000070 00000070 00000004 .abs_vector_28 abs_vector_28
+  00000074 00000074 00000004 .abs_vector_29 abs_vector_29
+  00000078 00000078 00000004 .abs_vector_30 abs_vector_30
+  0000007C 0000007C 00000004 .abs_vector_31 abs_vector_31
+  00000080 00000080 00000004 .abs_vector_32 abs_vector_32
+  00000084 00000084 00000004 .abs_vector_33 abs_vector_33
+  00000088 00000088 00000004 .abs_vector_34 abs_vector_34
+  0000008C 0000008C 00000004 .abs_vector_35 abs_vector_35
+  00000090 00000090 00000004 .abs_vector_36 abs_vector_36
+  00000094 00000094 00000004 .abs_vector_37 abs_vector_37
+  00000098 00000098 00000004 .abs_vector_38 abs_vector_38
+  0000009C 0000009C 00000004 .abs_vector_39 abs_vector_39
+  000000A0 000000A0 00000004 .abs_vector_40 abs_vector_40
+  000000A4 000000A4 00000004 .abs_vector_41 abs_vector_41
+  000000A8 000000A8 00000004 .abs_vector_42 abs_vector_42
+  000000AC 000000AC 00000004 .abs_vector_43 abs_vector_43
+  000000B0 000000B0 00000004 .abs_vector_44 abs_vector_44
+  000000B4 000000B4 00000004 .abs_vector_45 abs_vector_45
+  000000B8 000000B8 00000004 .abs_vector_46 abs_vector_46
+  000000BC 000000BC 00000004 .abs_vector_47 abs_vector_47
+  000000C0 000000C0 00000004 .abs_vector_48 abs_vector_48
+  000000C4 000000C4 00000004 .abs_vector_49 abs_vector_49
+  000000C8 000000C8 00000004 .abs_vector_50 abs_vector_50
+  000000CC 000000CC 00000004 .abs_vector_51 abs_vector_51
+  000000D0 000000D0 00000004 .abs_vector_52 abs_vector_52
+  000000D4 000000D4 00000004 .abs_vector_53 abs_vector_53
+  000000D8 000000D8 00000004 .abs_vector_54 abs_vector_54
+  000000DC 000000DC 00000004 .abs_vector_55 abs_vector_55
+  000000E0 000000E0 00000004 .abs_vector_56 abs_vector_56
+  000000E4 000000E4 00000004 .abs_vector_57 abs_vector_57
+  000000E8 000000E8 00000004 .abs_vector_58 abs_vector_58
+  000000EC 000000EC 00000004 .abs_vector_59 abs_vector_59
+  000000F0 000000F0 00000004 .abs_vector_60 abs_vector_60
+  000000F4 000000F4 00000004 .abs_vector_61 abs_vector_61
+  000000F8 000000F8 00000004 .abs_vector_62 abs_vector_62
+  000000FC 000000FC 00000004 .abs_vector_63 abs_vector_63
+  00000100 00000100 00000004 .abs_vector_64 abs_vector_64
+  00000104 00000104 00000004 .abs_vector_65 abs_vector_65
+  00000108 00000108 00000004 .abs_vector_66 abs_vector_66
+  0000010C 0000010C 00000004 .abs_vector_67 abs_vector_67
+  00000110 00000110 00000004 .abs_vector_68 abs_vector_68
+  00000114 00000114 00000004 .abs_vector_69 abs_vector_69
+  00000118 00000118 00000004 .abs_vector_70 abs_vector_70
+  0000011C 0000011C 00000004 .abs_vector_71 abs_vector_71
+  00000120 00000120 00000004 .abs_vector_72 abs_vector_72
+  00000124 00000124 00000004 .abs_vector_73 abs_vector_73
+  00000128 00000128 00000004 .abs_vector_74 abs_vector_74
+  0000012C 0000012C 00000004 .abs_vector_75 abs_vector_75
+  00000130 00000130 00000004 .abs_vector_76 abs_vector_76
+  00000134 00000134 00000004 .abs_vector_77 abs_vector_77
+  00000138 00000138 00000004 .abs_vector_78 abs_vector_78
+  0000013C 0000013C 00000004 .abs_vector_79 abs_vector_79
+  00000140 00000140 00000004 .abs_vector_80 abs_vector_80
+  00000144 00000144 00000004 .abs_vector_81 abs_vector_81
+  00000148 00000148 00000004 .abs_vector_82 abs_vector_82
+  0000014C 0000014C 00000004 .abs_vector_83 abs_vector_83
+  00000150 00000150 00000004 .abs_vector_84 abs_vector_84
+  00000154 00000154 00000004 .abs_vector_85 abs_vector_85
+  00000158 00000158 00000004 .abs_vector_86 abs_vector_86
+  0000015C 0000015C 00000004 .abs_vector_87 abs_vector_87
+  00000160 00000160 00000004 .abs_vector_88 abs_vector_88
+  00000164 00000164 00000004 .abs_vector_89 abs_vector_89
+  00000168 00000168 00000004 .abs_vector_90 abs_vector_90
+  0000016C 0000016C 00000004 .abs_vector_91 abs_vector_91
+  00000170 00000170 00000004 .abs_vector_92 abs_vector_92
+  00000174 00000174 00000004 .abs_vector_93 abs_vector_93
+  00000178 00000178 00000004 .abs_vector_94 abs_vector_94
+  0000017C 0000017C 00000004 .abs_vector_95 abs_vector_95
+  00000180 00000180 00000004 .abs_vector_96 abs_vector_96
+  00000184 00000184 00000004 .abs_vector_97 abs_vector_97
+  00000188 00000188 00000004 .abs_vector_98 abs_vector_98
+  0000018C 0000018C 00000004 .abs_vector_99 abs_vector_99
+  00000190 00000190 00000004 .abs_vector_100 abs_vector_100
+  00000194 00000194 00000004 .abs_vector_101 abs_vector_101
+  00000198 00000198 00000004 .abs_vector_102 abs_vector_102
+  00000410 00000410 00000000 .code      code
+  00000410 00000410 00001688 .text      code
+  00800000 00800000 00000000 .userram   userram
+  00800000 00001A98 00000054 .data      userram
+  00800054 00800054 00000134 .bss       userram
+  00800188 00800188 00000000 .custom    userram
+  00800188 00001AEC 00000018 .romp      userram
+
+# Link start time: Fri Apr 11 19:03:43 2008
+# Link end time: Fri Apr 11 19:03:43 2008
